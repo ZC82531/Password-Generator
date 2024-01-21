@@ -7,6 +7,8 @@ The following can be done:
 * The generator allows you to check categories of what elements should be in the generated password. By default, everything will be included
 * The length of the password can be chosen. It has current bounds of 4 to 30 inclusive, but can be adjusted in index.html under the ID "number".
 
+Click [here](https://zc82531.github.io/Password-Generator/) to view the site.
+
 <p>
   <img width="100%" height="auto" alt='PassGen' src="Generator.png">
 </p>
